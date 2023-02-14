@@ -3,8 +3,10 @@ body {
     background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(177,185,56,1) 50%, rgba(13,122,91,1) 100%);
     font-size: 12px;
     font-family: "Sofia", sans-serif;
+}
 
 h1 { color: blue;
+
 }
 
 h2 { color: orange

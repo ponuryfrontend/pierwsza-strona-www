@@ -1,28 +1,13 @@
 body {
     background: rgb(255,255,255);
     background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(177,185,56,1) 50%, rgba(13,122,91,1) 100%);
-    font-size: 12px;
+    font-size: 14px;
     font-family: "Playfair Display", sans-serif;
+    color: beige
 }
 
-h1 { 
-    color: blue;
-}
-
-h2 { 
-    color: orange;
-}
-
-h3 { 
-    color: green;
-}
-
-h4 { 
-    color: red;
-}
-
-h5 { 
-    color: beige;
+h1, h2, h3, h4, h5 { 
+    color: whitesmoke;
 }
 
 input, textarea { 

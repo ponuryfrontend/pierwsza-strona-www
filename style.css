@@ -1,3 +1,8 @@
+header {
+    display: grid;
+    grid-template-columns: 4, 100px;
+}
+
 body {
     background: rgb(255,255,255);
     background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(177,185,56,1) 50%, rgba(13,122,91,1) 100%);
@@ -7,7 +12,14 @@ body {
     margin-left: 10px;
 }
 
-h1, h2, h3, h4, h5 { 
+h1 {
+    font-size: 18px;
+    color: whitesmoke;
+    margin-left: 15px;
+}
+
+h2, h3, h4, h5 { 
+    font-size: 16px;
     color: whitesmoke;
     margin-left: 15px;
 }

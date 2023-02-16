@@ -1,6 +1,5 @@
 .container {
-    background: rgb(63,94,251);
-    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,70,1) 100%);
+    background: #3f5efb;
     border-radius: 20px;
     margin-top: 15px;
     margin-right: 10px;
@@ -10,8 +9,7 @@
 }
 
 body {
-    background: rgb(177,185,56);
-    background: radial-gradient(circle, rgba(177,185,56,1) 50%, rgba(13,122,91,1) 100%);
+    background: #ffff
     font-size: 14px;
     font-family: "Playfair Display", sans-serif;
     color: beige;

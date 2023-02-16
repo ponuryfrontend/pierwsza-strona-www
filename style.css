@@ -1,7 +1,10 @@
 .container {
     background: rgb(185,56,185);
     background: linear-gradient(90deg, rgba(185,56,185,1) 35%, rgba(35,71,170,1) 74%);
-    margin: 25px, 25px, 25px;
+    margin-top: 15px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    margin-left: 10px;
     padding: 10px;
 }
 

@@ -1,6 +1,6 @@
 body {
-    background: rgb(255,255,255);
-    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(177,185,56,1) 50%, rgba(13,122,91,1) 100%);
+    background: rgb(177,185,56);
+    background: radial-gradient(circle, rgba(177,185,56,1) 50%, rgba(13,122,91,1) 100%);
     font-size: 14px;
     font-family: "Playfair Display", sans-serif;
     color: beige;

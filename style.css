@@ -17,19 +17,19 @@ body {
 
 h1 {
     font-size: 20px;
-    color: whitesmoke;
+    color: red;
     margin-left: 15px;
 }
 
 h2 {
     font-size: 18px;
-    color: whitesmoke;
+    color: red;
     margin-left: 15px;
 }
 
 h3, h4, h5 { 
     font-size: 16px;
-    color: whitesmoke;
+    color: red;
     margin-left: 15px;
 }
 

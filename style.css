@@ -3,11 +3,13 @@ body {
     background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(177,185,56,1) 50%, rgba(13,122,91,1) 100%);
     font-size: 14px;
     font-family: "Playfair Display", sans-serif;
-    color: beige
+    color: beige;
+    margin-left: 10px;
 }
 
 h1, h2, h3, h4, h5 { 
     color: whitesmoke;
+    margin-left: 15px;
 }
 
 input, textarea { 

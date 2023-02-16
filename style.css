@@ -1,4 +1,4 @@
-header {
+.top {
     display: grid;
     grid-template-columns: 4, 100px;
 }

@@ -8,6 +8,10 @@
     padding: 10px;
 }
 
+.header-navigation {
+    display: grid;
+}
+
 .container {
     background-color: #3f5efb;
     border-radius: 20px;

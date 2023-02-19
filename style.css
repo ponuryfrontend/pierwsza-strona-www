@@ -1,6 +1,7 @@
 .header-navigation {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
+    padding-bottom: 45px;
 }
 
 body {

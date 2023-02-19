@@ -22,7 +22,7 @@ h1 {
 .header-navigation {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    padding-bottom: 35px;ś
+    padding-bottom: 35px;
 }
 
 h2 {

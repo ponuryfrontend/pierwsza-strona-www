@@ -12,7 +12,10 @@ h1 {
 
 .container {
     background: rgb(148,168,222);
-    background: linear-gradient(270deg, rgba(148,168,222,1) 40%, rgba(35,71,170,0) 100%);
+    background: -moz-linear-gradient(270deg, rgba(148,168,222,1) 25%, rgba(64,91,126,0) 100%);
+    background: -webkit-linear-gradient(270deg, rgba(148,168,222,1) 25%, rgba(64,91,126,0) 100%);
+    background: linear-gradient(270deg, rgba(148,168,222,1) 25%, rgba(64,91,126,0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#94a8de",endColorstr="#405b7e",GradientType=1);   
     padding-top: 10px;
     margin-top: 15px;
     margin-bottom: 15px;

@@ -1,15 +1,5 @@
-.header-navigation {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    padding-bottom: 45px;
-}
-
 body {
-    background: rgb(148,168,222);
-    background: linear-gradient(270deg, rgba(148,168,222,1) 40%, rgba(35,71,170,0) 100%);
-    margin-top: 20px;
-    margin-right: 10px;
-    margin-left: 10px;
+    background-color: #ffff;
     font-size: 14px;
     font-family: "Playfair Display", sans-serif;
     color: #405b7e;
@@ -21,6 +11,14 @@ h1 {
     text-align: center;
 }
 
+.container {
+    background-color: rgb(148,168,222);
+    background-color: linear-gradient(270deg, rgba(148,168,222,1) 40%, rgba(35,71,170,0) 100%);
+    padding-top: 10px;
+    margin-right: 20px;
+    border-top-right-radius: 20px;
+}
+
 h2 {
     font-size: 18px;
     margin-left: 15px;
@@ -29,6 +27,13 @@ h2 {
 h3, h4, h5 { 
     font-size: 16px;
     margin-left: 15px;
+}
+
+.header-navigation {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding-bottom: 35px;
+    margin-bottom: 0px;
 }
 
 .contact-form {

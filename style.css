@@ -1,6 +1,6 @@
 .grid-container {
-    background: rgb(185,56,185);
-    background: radial-gradient(circle, rgba(185,56,185,0.6068802521008403) 0%, rgba(35,71,170,0.6881127450980392) 74%);
+    background: rgb(148,168,222);
+    background: linear-gradient(270deg, rgba(148,168,222,1) 40%, rgba(35,71,170,0) 100%);
     border-radius: 20px;
     margin-top: 15px;
     margin-right: 10px;
@@ -20,25 +20,22 @@ body {
     background: #ffff;
     font-size: 14px;
     font-family: "Playfair Display", sans-serif;
-    color: beige;
+    color: #405b7e;
 }
 
 h1 {
     font-size: 20px;
-    color: #ffff;
     margin-left: 15px;
     text-align: center;
 }
 
 h2 {
     font-size: 18px;
-    color: #ffff;
     margin-left: 15px;
 }
 
 h3, h4, h5 { 
     font-size: 16px;
-    color: #ffff;
     margin-left: 15px;
 }
 

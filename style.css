@@ -12,8 +12,8 @@
 .header-navigation {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    background-color: #ffff;
-    border-radius: 20px;
+    align-self: center;
+    justify-self: center;
 }
 
 body {

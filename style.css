@@ -1,5 +1,6 @@
 .grid-container {
-    background-color: #3f5efb;
+    background: rgb(185,56,185);
+    background: radial-gradient(circle, rgba(185,56,185,0.6068802521008403) 0%, rgba(35,71,170,0.6881127450980392) 74%);
     border-radius: 20px;
     margin-top: 15px;
     margin-right: 10px;

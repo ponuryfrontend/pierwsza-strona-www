@@ -12,8 +12,8 @@ h1 {
 }
 
 .container {
-    background-color: rgb(148,168,222);
-    background-color: linear-gradient(270deg, rgba(148,168,222,1) 40%, rgba(35,71,170,0) 100%);
+    background: rgb(148,168,222);
+    background: linear-gradient(270deg, rgba(148,168,222,1) 40%, rgba(35,71,170,0) 100%);
     padding-top: 10px;
     margin-right: 20px;
     border-top-right-radius: 20px;

@@ -30,6 +30,10 @@ h1 {
     padding-bottom: 35px;
 }
 
+ul {
+    list-style: none;
+}
+
 h2 {
     font-size: 18px;
     margin-left: 15px;

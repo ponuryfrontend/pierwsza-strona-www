@@ -11,6 +11,7 @@ body {
 
 a {
     text-decoration: none;
+    color: #405b7e;
 }
 
 h1 {
@@ -40,6 +41,10 @@ h1 {
 
 ul {
     list-style: none;
+}
+
+img {
+    width: 100%;
 }
 
 h2 {

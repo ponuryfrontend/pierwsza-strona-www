@@ -15,8 +15,9 @@ a {
 }
 
 h1 {
-	font-size: 20px;
+	font-weight: 700px;
 	text-align: center;
+	padding: 20px;
 }
 
 .container {

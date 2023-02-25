@@ -51,6 +51,7 @@ img {
 h2 {
 	font-size: 18px;
 	margin-left: 15px;
+	text-align: center;
 }
 
 h3,
@@ -58,10 +59,17 @@ h4,
 h5 {
 	font-size: 16px;
 	margin-left: 15px;
+	text-align: center;
 }
 
 main {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
 	padding: 10px;
+}
+
+p {
+	text-align: center;
 }
 
 .contact-form {
